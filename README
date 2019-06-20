@@ -1,0 +1,6 @@
+CPUID
+-----
+
+This is a simple command line tool to read EAX, EBX, ECX
+and EDX Registers from CPUID intructions for learning
+CPU features.
